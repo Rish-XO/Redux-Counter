@@ -11,6 +11,6 @@ function App() {
       <Counter />
     </Fragment>
   );
-}
+} 
 
 export default App;
